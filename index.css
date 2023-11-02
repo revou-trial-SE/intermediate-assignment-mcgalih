@@ -1,0 +1,12 @@
+.navbar {
+    position: fixed;
+}
+
+.navbar_logo {
+    height: 50px;
+    width: 50px;
+}
+
+header {
+    padding-top: 70px;
+}
