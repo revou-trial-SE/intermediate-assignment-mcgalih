@@ -10,3 +10,14 @@
 header {
     padding-top: 70px;
 }
+
+.bg-header {
+    background-image: url("img/bg-header.jpg");
+    height: 200px;
+    background-size: cover;
+
+}
+
+.welcome-text {
+    color:whitesmoke;
+}
