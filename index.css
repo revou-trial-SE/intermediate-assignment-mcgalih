@@ -46,8 +46,8 @@ header {
 }
 
 .skill-icon {
-    width: 150px;
-    height: 150px;
+    width: 60%;
+    height: 60%;
 }
 
 @media screen and (max-width: 576px) {
